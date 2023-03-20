@@ -10,3 +10,5 @@ In this template, these assets are **delivered using CDN**:
 Be sure to **include image** and `style.css`.
 
 ![image](https://user-images.githubusercontent.com/126497052/226271716-22b3e84c-b59d-4a45-9b71-45d86b841eff.png)
+
+The end.
